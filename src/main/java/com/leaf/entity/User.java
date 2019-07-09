@@ -7,6 +7,11 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
+/**
+ * 
+ * @author liu zh
+ *
+ */
 @Entity
 @Table(name = "user")
 public class User {
